@@ -1,7 +1,7 @@
 {
   "name": "56website",
   "version": "0.1.0",
-  "homepage": "https://56thab.github.io/",
+  "homepage": "https://56thab.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
